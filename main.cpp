@@ -95,7 +95,7 @@ int main()
 			cout << "File could not open!" << endl;
 		}
 		fout.close();
-		cout << "Thank you for using the ItalyHorse45 Database System! COME AGAIN SOON!" << endl;
+		cout << "Thank you for using my cool Database System! COME AGAIN SOON!" << endl;
 	}
 	else{
 		cout << "File does not exist, creating new file!" << endl;
